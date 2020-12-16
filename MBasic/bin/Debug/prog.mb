@@ -1,0 +1,1 @@
+<program><call fun="print"><string value="Hello, xml!"></string></call></program>
